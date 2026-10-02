@@ -9,9 +9,3 @@
 
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/71b94a80-2cd7-43b2-84ed-029159c1e72f" />
 
-
-
-
-
-
-
