@@ -9,3 +9,7 @@
 
 <img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/71b94a80-2cd7-43b2-84ed-029159c1e72f" />
 
+## Other
+
+<img width="351" height="395" alt="image" src="https://github.com/user-attachments/assets/7515cfe3-8568-42a0-84e3-83dec344afc0" />
+
